@@ -17,6 +17,8 @@ Landing page in italiano per WatchMeGrow, l'app (in sviluppo) con un giardiniere
 - `privacy.html` – informativa privacy (servita su `/privacy`)
 - `styles.css` – tutti gli stili, mobile-first
 - `script.js` – solo il pulsante "Condividi" di `grazie.html`
+- `hero.js` – hero a scorrimento di `index.html` (parallasse: logo → telefono → pianta che cresce dalla W → balloon). Con movimento ridotto o senza JS resta una versione statica.
+- `reveal.js` – animazioni d'ingresso delle sezioni sotto l'hero (ogni blocco appare una volta sola, con piccoli ritardi a cascata). Stesse regole: disattivate con movimento ridotto.
 - `favicon.svg`, `netlify.toml`
 
 ## Avvio in locale

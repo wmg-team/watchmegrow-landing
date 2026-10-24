@@ -47,8 +47,13 @@
 
   <main id="contenuto">
     <!-- 1. Hero -->
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="wrap">
+    <section class="hero" id="hero" aria-labelledby="hero-title">
+      <div class="hero-stage">
+        <div class="hero-bg" aria-hidden="true">
+          <span class="blob blob-a" style="--shift: -110px"></span>
+          <span class="blob blob-b" style="--shift: -200px"></span>
+        </div>
+
         <div class="hero-copy">
           <span class="eyebrow">App in arrivo per iPhone e Android</span>
           <h1 id="hero-title">Il giardiniere che conosce la tua pianta</h1>
@@ -57,8 +62,33 @@
           <p class="hero-note">Gratis, senza impegno. Chi si iscrive prova l'app per primo.</p>
         </div>
 
-        <div class="hero-visual">
-          <div class="hero-blob" aria-hidden="true"></div>
+        <div class="hero-show">
+          <svg class="hero-figure" viewBox="-40 -420 336 650" role="img" aria-label="Il simbolo WatchMeGrow: la W fa da radici a una pianta che cresce.">
+            <defs>
+              <g id="leaf-shape">
+                <path d="M0 0Q4-12 0-24" stroke="#244f3d" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+                <path d="M0-20C-30-36-34-68 0-100C34-68 30-36 0-20Z" fill="currentColor"/>
+                <path d="M0-28V-82" stroke="#fff" stroke-opacity=".35" stroke-width="2" stroke-linecap="round" fill="none"/>
+              </g>
+            </defs>
+            <g class="leaves">
+              <g class="leaf" data-t="0.14" data-rot="-70" data-size="0.8"><use class="leaf-in" href="#leaf-shape" style="color:#54745a"/></g>
+              <g class="leaf" data-t="0.22" data-rot="68" data-size="0.9"><use class="leaf-in" href="#leaf-shape" style="color:#7e9d6c"/></g>
+              <g class="leaf" data-t="0.31" data-rot="-62" data-size="1"><use class="leaf-in" href="#leaf-shape" style="color:#54745a"/></g>
+              <g class="leaf" data-t="0.4" data-rot="60" data-size="1.05"><use class="leaf-in" href="#leaf-shape" style="color:#7e9d6c"/></g>
+              <g class="leaf" data-t="0.5" data-rot="-55" data-size="1"><use class="leaf-in" href="#leaf-shape" style="color:#7e9d6c"/></g>
+              <g class="leaf" data-t="0.59" data-rot="52" data-size="1"><use class="leaf-in" href="#leaf-shape" style="color:#54745a"/></g>
+              <g class="leaf" data-t="0.68" data-rot="-48" data-size="0.9"><use class="leaf-in" href="#leaf-shape" style="color:#a6be85"/></g>
+              <g class="leaf" data-t="0.76" data-rot="45" data-size="0.85"><use class="leaf-in" href="#leaf-shape" style="color:#7e9d6c"/></g>
+              <g class="leaf" data-t="0.85" data-rot="-35" data-size="0.7"><use class="leaf-in" href="#leaf-shape" style="color:#a6be85"/></g>
+              <g class="leaf" data-t="0.92" data-rot="32" data-size="0.6"><use class="leaf-in" href="#leaf-shape" style="color:#54745a"/></g>
+              <g class="leaf" data-t="1" data-rot="0" data-size="0.8"><use class="leaf-in" href="#leaf-shape" style="color:#7e9d6c"/></g>
+            </g>
+            <path class="stem" pathLength="1" d="M130 110C128 40 146-10 134-80C124-140 118-200 130-250C136-280 132-310 128-332" fill="none" stroke="#244f3d" stroke-width="8" stroke-linecap="round"/>
+            <g fill="#244F3D"><path d="M24 78H58L86 164L113 94Q117 82 130 82Q143 82 147 94L172 164L198 78H232L189 198Q185 210 172 210Q159 210 155 198L130 129L104 198Q100 210 86 210Q72 210 68 198Z"/><path d="M194 58C190 34 205 21 231 24C235 49 220 62 194 58Z"/></g>
+          </svg>
+
+          <div class="phone-wrap">
           <div class="phone" role="img" aria-label="Anteprima dell'app WatchMeGrow: la scheda di una Monstera con i prossimi promemoria e un messaggio del giardiniere IA che dice di tenerla d'occhio per tre giorni.">
             <div class="phone-screen" aria-hidden="true">
               <div class="app-top">
@@ -88,7 +118,15 @@
               </div>
             </div>
           </div>
+          </div>
         </div>
+
+        <ul class="balloons">
+          <li class="balloon" data-start="0.5"><span class="b-ico" aria-hidden="true">📷</span><span><b>Riconosce la pianta</b> da una semplice foto.</span></li>
+          <li class="balloon" data-start="0.6"><span class="b-ico" aria-hidden="true">📋</span><span><b>Piano di cura su misura</b> per vaso, luce e meteo.</span></li>
+          <li class="balloon" data-start="0.7"><span class="b-ico" aria-hidden="true">💧</span><span><b>Ti ricorda cosa fare:</b> annaffiare, concimare, rinvasare.</span></li>
+          <li class="balloon" data-start="0.8"><span class="b-ico" aria-hidden="true">💬</span><span><b>Chiedi al giardiniere</b> e più passa il tempo, più conosce la tua pianta.</span></li>
+        </ul>
       </div>
     </section>
 
@@ -424,5 +462,7 @@
       <p class="footer-bottom">© WatchMeGrow</p>
     </div>
   </footer>
+  <script src="/hero.js" defer></script>
+  <script src="/reveal.js" defer></script>
 </body>
 </html>
