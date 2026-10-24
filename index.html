@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WatchMeGrow – Il giardiniere IA che conosce la tua pianta</title>
+  <meta name="description" content="WatchMeGrow è l'app con un giardiniere IA che riconosce la tua pianta da una foto, crea un piano di cura su misura e ti segue giorno per giorno. Entra nella lista d'attesa.">
+  <link rel="canonical" href="https://watchmegrow-website.netlify.app/">
+  <meta name="theme-color" content="#f7f8f4">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:site_name" content="WatchMeGrow">
+  <meta property="og:title" content="WatchMeGrow – Il giardiniere che conosce la tua pianta">
+  <meta property="og:description" content="Un giardiniere IA in tasca: riconosce la tua pianta, crea un piano di cura su misura e ti ricorda cosa fare. Anche se hai il pollice nero. Entra nella lista d'attesa.">
+  <meta property="og:url" content="https://watchmegrow-website.netlify.app/">
+  <!-- Aggiungi un'immagine di anteprima 1200×630 (PNG o JPG) e scommenta:
+  <meta property="og:image" content="https://watchmegrow-website.netlify.app/og-image.png">
+  <meta property="og:image:alt" content="WatchMeGrow, il giardiniere IA per le tue piante">
+  -->
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Analisi rispettosa della privacy: inserisci qui lo script di Plausible o Umami (nessun cookie di profilazione).
+  Esempio Plausible: <script defer data-domain="TUO-DOMINIO" src="https://plausible.io/js/script.js"></script>
+  -->
+</head>
+<body>
+  <a class="skip-link" href="#contenuto">Vai al contenuto</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/" aria-label="WatchMeGrow, torna all'inizio">
+        <img src="/brand/symbol.svg" alt="" width="30" height="30">
+        <span>WatchMe<em>Grow</em></span>
+      </a>
+      <a class="btn btn-small" href="#lista-attesa">Iscriviti</a>
+    </div>
+  </header>
+
+  <main id="contenuto">
+    <!-- 1. Hero -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap">
+        <div class="hero-copy">
+          <span class="eyebrow">App in arrivo per iPhone e Android</span>
+          <h1 id="hero-title">Il giardiniere che conosce la tua pianta</h1>
+          <p class="lead">Un giardiniere IA in tasca che ti dice cosa fare, quando farlo e perché. Anche se hai il pollice nero.</p>
+          <a class="btn" href="#lista-attesa">Entra nella lista d'attesa</a>
+          <p class="hero-note">Gratis, senza impegno. Chi si iscrive prova l'app per primo.</p>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-blob" aria-hidden="true"></div>
+          <div class="phone" role="img" aria-label="Anteprima dell'app WatchMeGrow: la scheda di una Monstera con i prossimi promemoria e un messaggio del giardiniere IA che dice di tenerla d'occhio per tre giorni.">
+            <div class="phone-screen" aria-hidden="true">
+              <div class="app-top">
+                <strong>Le mie piante</strong>
+                <span class="app-chip">☀️ 21°</span>
+              </div>
+              <div class="plant-card">
+                <svg viewBox="0 0 64 64">
+                  <path d="M20 44h24l-3 14H23z" fill="#a6be85"/>
+                  <rect x="18" y="40" width="28" height="6" rx="3" fill="#244f3d"/>
+                  <path d="M32 41V20" stroke="#244f3d" stroke-width="2.5" stroke-linecap="round"/>
+                  <path d="M32 26c-10-2-16-10-14-18 9 0 15 7 14 18z" fill="#54745a"/>
+                  <path d="M32 30c9-3 16-1 20 6-8 5-16 3-20-6z" fill="#a6be85"/>
+                  <path d="M32 36c-7-1-13 1-16 6 6 3 13 1 16-6z" fill="#7e9d6c"/>
+                </svg>
+                <div>
+                  <b>Monstera</b>
+                  <small>Soggiorno · luce indiretta</small><br>
+                  <small>Salute: ottima 🌿</small>
+                </div>
+              </div>
+              <div class="task"><i>💧</i><span>Annaffia tra 2 giorni · 250 ml</span></div>
+              <div class="task"><i class="soft">🪴</i><span>Concime a fine mese</span></div>
+              <div class="chat">
+                <div class="bubble me">Ho spostato la Monstera vicino alla finestra.</div>
+                <div class="bubble ai">Bravo! Ora tienila d'occhio per 3 giorni, poi ricontrolliamo le foglie insieme.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. Il problema -->
+    <section class="problem" aria-labelledby="problem-title">
+      <div class="wrap">
+        <div>
+          <span class="eyebrow">Il problema</span>
+          <h2 id="problem-title">I consigli generici non funzionano</h2>
+          <p class="lead">“Annaffia una volta a settimana” sembra semplice, ma la tua pianta non ha letto quel consiglio.</p>
+          <p>Ogni pianta è diversa, e lo sono anche il vaso, la luce della tua finestra e il clima della tua città. Per questo una regola uguale per tutti finisce spesso con foglie gialle o radici marce.</p>
+        </div>
+        <blockquote>
+          <p><s>Annaffia una volta a settimana.</s></p>
+          <p>Meglio: “La tua pianta, in quel vaso, su quel balcone, con il caldo di questi giorni, ha bisogno di acqua domani.”</p>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- 3. Come funziona -->
+    <section class="how" aria-labelledby="how-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Come funziona</span>
+          <h2 id="how-title">Tre passi, zero stress</h2>
+        </div>
+        <ol class="steps">
+          <li class="step">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg>
+            </div>
+            <h3>Fotografa la pianta</h3>
+            <p>Scatta una foto: il giardiniere riconosce la specie e ti chiede due cose sul vaso e su dove la tieni.</p>
+          </li>
+          <li class="step">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="4" width="14" height="17" rx="2"/><path d="M9 4V3h6v1M9 10h6M9 14h6M9 18h3"/></svg>
+            </div>
+            <h3>Ricevi il tuo piano di cura</h3>
+            <p>Un piano fatto su misura per la tua pianta, il tuo vaso, la tua luce e il meteo di dove vivi.</p>
+          </li>
+          <li class="step">
+            <div class="icon soft" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21c-4-3-7-6-7-10a7 7 0 0 1 14 0c0 4-3 7-7 10z"/><path d="M12 15V9M9 12l3-3 3 3"/></svg>
+            </div>
+            <h3>Il giardiniere ti segue e impara</h3>
+            <p>Ti ricorda cosa fare, risponde alle tue domande e più passa il tempo più conosce la tua pianta.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- 4. Con o senza sensore -->
+    <section class="sensor" aria-labelledby="sensor-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Con o senza sensore</span>
+          <h2 id="sensor-title">Funziona subito, anche senza niente nel vaso</h2>
+          <p class="lead">Il sensore è un di più, non un obbligo.</p>
+        </div>
+        <div class="compare">
+          <div class="compare-col">
+            <span class="tag">Senza sensore</span>
+            <h3>Basta il telefono</h3>
+            <ul class="checklist">
+              <li>Riconosce la pianta da una foto</li>
+              <li>Crea un piano di cura su vaso, luce, posizione e meteo</li>
+              <li>Ti ricorda quando annaffiare, concimare e rinvasare</li>
+              <li>Misura la luce con la fotocamera</li>
+              <li>Capisce cosa non va guardando una foto</li>
+              <li>Tiene il diario fotografico della crescita</li>
+            </ul>
+          </div>
+          <div class="compare-col with">
+            <span class="tag">Con sensore</span>
+            <h3>Dati veri, direttamente dal vaso</h3>
+            <ul class="checklist">
+              <li>Colleghi un sensore Bluetooth compatibile al vaso</li>
+              <li>Il giardiniere smette di stimare e legge l'umidità reale della terra</li>
+              <li>Impara quanta acqua beve davvero quella pianta</li>
+              <li>Ti dice con precisione quando e quanta acqua dare</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. Funzionalità -->
+    <section class="features-section" aria-labelledby="features-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Funzionalità</span>
+          <h2 id="features-title">Tutto quello che serve alle tue piante</h2>
+        </div>
+        <div class="features">
+          <article class="feature">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8V5a2 2 0 0 1 2-2h3M16 3h3a2 2 0 0 1 2 2v3M21 16v3a2 2 0 0 1-2 2h-3M8 21H5a2 2 0 0 1-2-2v-3"/><path d="M12 17c-3-2-4-4-4-6 2 0 4 1 4 3 0-3 2-5 4-5 0 3-1 6-4 8z"/></svg>
+            </div>
+            <h3>Riconoscimento da foto</h3>
+            <p>Inquadra la pianta e scopri subito come si chiama e di cosa ha bisogno.</p>
+          </article>
+          <article class="feature">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>
+            </div>
+            <h3>Piano di cura e promemoria</h3>
+            <p>Un calendario su misura che ti avvisa quando annaffiare, concimare e rinvasare.</p>
+          </article>
+          <article class="feature">
+            <div class="icon soft" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="3"/><path d="M9 2v1.5M2 9h1.5M4 4l1 1M14 4l-1 1"/><path d="M8 20h9a4 4 0 0 0 0-8 5 5 0 0 0-9.5 1.5A3.3 3.3 0 0 0 8 20z"/></svg>
+            </div>
+            <h3>Meteo locale</h3>
+            <p>Caldo, gelo o vento in arrivo? Il piano si adatta e ti avvisa per tempo.</p>
+          </article>
+          <article class="feature">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+            </div>
+            <h3>Misuratore di luce</h3>
+            <p>Usa la fotocamera per capire se quell'angolo di casa è giusto per la tua pianta.</p>
+          </article>
+          <article class="feature">
+            <div class="icon soft" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-5-5"/><path d="M11 8v3M11 14h.01"/></svg>
+            </div>
+            <h3>Diagnosi da foto</h3>
+            <p>Foglie gialle, macchie o insetti? Fotografa il problema e scopri come rimediare.</p>
+          </article>
+          <article class="feature">
+            <div class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/><path d="M12 13c-2-1-3-3-3-5 2 0 3 1 3 3 0-2 1-3 3-3 0 2-1 4-3 5z"/></svg>
+            </div>
+            <h3>Diario della crescita</h3>
+            <p>Una foto alla volta, guarda la tua pianta crescere e condividi i progressi.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Piani -->
+    <section class="pricing" aria-labelledby="pricing-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Piani</span>
+          <h2 id="pricing-title">Gratis per iniziare, Plus se vuoi di più</h2>
+        </div>
+        <div class="pricing-table-wrap" role="region" aria-label="Confronto tra piano Gratuito e Plus" tabindex="0">
+          <table class="pricing-table">
+            <thead>
+              <tr>
+                <th scope="col">Funzionalità</th>
+                <th scope="col">Gratuito <span>0 €</span></th>
+                <th scope="col">Plus <span>2,99 €/mese o 24,99 €/anno</span></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">Piante</th>
+                <td>Illimitate</td>
+                <td>Illimitate</td>
+              </tr>
+              <tr>
+                <th scope="row">Riconoscimento da foto</th>
+                <td>Fino a 10 al mese</td>
+                <td>Illimitato</td>
+              </tr>
+              <tr>
+                <th scope="row">Piano di cura</th>
+                <td>Su misura per specie, vaso, luce, posizione e stagione, con promemoria per acqua, concime e rinvaso</td>
+                <td>Si adatta nel tempo: impara dalle tue conferme (per esempio “era ancora umido”) e ti dice quanta acqua dare, non solo quando</td>
+              </tr>
+              <tr>
+                <th scope="row">Meteo locale</th>
+                <td>Avvisi di caldo e gelo per le piante sul balcone</td>
+                <td>Piano vacanze: cosa fare prima di partire e quali piante sono a rischio</td>
+              </tr>
+              <tr>
+                <th scope="row">Misuratore di luce</th>
+                <td>Con la fotocamera</td>
+                <td>Con la fotocamera, più il consiglio su dove spostare la pianta</td>
+              </tr>
+              <tr>
+                <th scope="row">Diagnosi da foto</th>
+                <td>3 al mese</td>
+                <td>Illimitate, con piano di recupero e controllo dei progressi nei giorni successivi</td>
+              </tr>
+              <tr>
+                <th scope="row">Giardiniere IA</th>
+                <td>5 domande al mese, per provarlo</td>
+                <td>Illimitato, ricorda la storia di ogni pianta e ti ricontatta (“tra 3 giorni ricontrolliamo”)</td>
+              </tr>
+              <tr>
+                <th scope="row">Diario della crescita</th>
+                <td>Foto e note, con condivisione sui social</td>
+                <td>Timelapse automatico e pagella mensile della pianta</td>
+              </tr>
+              <tr>
+                <th scope="row">Sensori compatibili</th>
+                <td>Collegamento illimitato, dati in tempo reale, grafici degli ultimi 7 giorni e avvisi semplici</td>
+                <td>Storico completo, confronto tra piante e apprendimento della curva di asciugatura di ogni vaso</td>
+              </tr>
+              <tr>
+                <th scope="row">Casa condivisa</th>
+                <td>1 persona</td>
+                <td>Più persone nella stessa casa, come partner e coinquilini</td>
+              </tr>
+              <tr>
+                <th scope="row">Extra</th>
+                <td>Invita un amico: un mese di Plus gratis per entrambi</td>
+                <td>—</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pricing-note">L'app è in sviluppo: piani e prezzi potrebbero cambiare prima del lancio.</p>
+      </div>
+    </section>
+
+    <!-- 7. Modulo lista d'attesa -->
+    <section class="signup" id="lista-attesa" aria-labelledby="signup-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Lista d'attesa</span>
+          <h2 id="signup-title">Prova WatchMeGrow per primo</h2>
+          <p class="lead">Lasciaci la tua email: ti scriviamo quando l'app è pronta da provare. Le domande facoltative ci aiutano a costruirla meglio.</p>
+        </div>
+
+        <form class="form-card" name="lista-attesa" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/grazie">
+          <input type="hidden" name="form-name" value="lista-attesa">
+          <p class="hidden-field" aria-hidden="true">
+            <label>Non compilare questo campo: <input name="bot-field" tabindex="-1" autocomplete="off"></label>
+          </p>
+
+          <div class="field">
+            <label for="email">Email <span class="hint">(obbligatoria)</span></label>
+            <input type="email" id="email" name="email" required autocomplete="email" inputmode="email" placeholder="nome@esempio.it">
+          </div>
+
+          <div class="field">
+            <label for="nome">Nome <span class="hint">(facoltativo)</span></label>
+            <input type="text" id="nome" name="nome" autocomplete="given-name">
+          </div>
+
+          <fieldset>
+            <legend>Hai già un sensore per le piante?</legend>
+            <div class="choices">
+              <div class="choice"><input type="radio" id="sensore-si" name="sensore" value="Sì"><label for="sensore-si">Sì</label></div>
+              <div class="choice"><input type="radio" id="sensore-no" name="sensore" value="No"><label for="sensore-no">No</label></div>
+              <div class="choice"><input type="radio" id="sensore-nonso" name="sensore" value="Non so cosa sia"><label for="sensore-nonso">Non so cosa sia</label></div>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Quante piante hai?</legend>
+            <div class="choices">
+              <div class="choice"><input type="radio" id="piante-1" name="piante" value="1-3"><label for="piante-1">1-3</label></div>
+              <div class="choice"><input type="radio" id="piante-2" name="piante" value="4-10"><label for="piante-2">4-10</label></div>
+              <div class="choice"><input type="radio" id="piante-3" name="piante" value="Più di 10"><label for="piante-3">Più di 10</label></div>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Pagheresti 2,99 € al mese per Plus?</legend>
+            <div class="choices">
+              <div class="choice"><input type="radio" id="plus-si" name="plus" value="Sì"><label for="plus-si">Sì</label></div>
+              <div class="choice"><input type="radio" id="plus-forse" name="plus" value="Forse"><label for="plus-forse">Forse</label></div>
+              <div class="choice"><input type="radio" id="plus-no" name="plus" value="No"><label for="plus-no">No</label></div>
+            </div>
+          </fieldset>
+
+          <div class="consent">
+            <input type="checkbox" id="consenso" name="consenso" value="Sì" required>
+            <label for="consenso">Ho letto l'<a href="/privacy">informativa privacy</a> e accetto di ricevere email su WatchMeGrow.</label>
+          </div>
+
+          <button class="btn btn-block" type="submit">Entra nella lista d'attesa</button>
+          <p class="form-small">Niente spam. Puoi cancellarti quando vuoi.</p>
+        </form>
+      </div>
+    </section>
+
+    <!-- 8. FAQ -->
+    <section class="faq" aria-labelledby="faq-title">
+      <div class="wrap">
+        <div class="section-head center">
+          <span class="eyebrow">Domande frequenti</span>
+          <h2 id="faq-title">Hai qualche dubbio?</h2>
+        </div>
+        <details>
+          <summary>Quando esce?</summary>
+          <div><p>Stiamo sviluppando l'app: chi è in lista d'attesa la prova per primo.</p></div>
+        </details>
+        <details>
+          <summary>Serve per forza un sensore?</summary>
+          <div><p>No. L'app funziona benissimo anche senza: riconosce la pianta, crea il piano di cura, ti manda i promemoria e ti aiuta a risolvere i problemi. Il sensore serve solo se vuoi consigli ancora più precisi sull'acqua.</p></div>
+        </details>
+        <details>
+          <summary>Quali sensori sono compatibili?</summary>
+          <div><p>All'inizio sensori Bluetooth come lo Xiaomi Mi Flora; la lista completa arriverà al lancio.</p></div>
+        </details>
+        <details>
+          <summary>Quanto costa?</summary>
+          <div><p>L'app è gratuita. Se vuoi il giardiniere IA senza limiti e le funzioni in più, puoi scegliere Plus: il prezzo previsto al lancio è 2,99 € al mese o 24,99 € l'anno. Plus è facoltativo.</p></div>
+        </details>
+        <details>
+          <summary>Che fine fanno i miei dati?</summary>
+          <div><p>Usiamo la tua email solo per la lista d'attesa e per avvisarti del lancio. Niente cookie di profilazione e niente pubblicità. Trovi tutti i dettagli nell'<a href="/privacy">informativa privacy</a>.</p></div>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <!-- 9. Footer -->
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <a class="logo" href="/" aria-label="WatchMeGrow, torna all'inizio">
+            <img src="/brand/symbol.svg" alt="" width="30" height="30">
+            <span>WatchMe<em>Grow</em></span>
+          </a>
+          <p>Il giardiniere IA che conosce la tua pianta. In arrivo per iPhone e Android.</p>
+        </div>
+        <ul class="footer-links">
+          <li><a href="mailto:[EMAIL]">[EMAIL]</a></li>
+          <li><a href="[INSTAGRAM]" rel="noopener">Instagram</a></li>
+          <li><a href="[TIKTOK]" rel="noopener">TikTok</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+        </ul>
+      </div>
+      <p class="footer-bottom">© WatchMeGrow</p>
+    </div>
+  </footer>
+</body>
+</html>
