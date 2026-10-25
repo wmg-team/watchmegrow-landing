@@ -48,7 +48,7 @@
     // Scala iniziale del logo: riempie lo spazio sotto il testo (la "W" più il margine inferiore sono il 32% dell'altezza della figura).
     var figH = figW * (650 / 336);
     var copyBottom = copy.offsetTop + copy.offsetHeight + 16;
-    var s0 = Math.min(1.8, Math.max(0.7, (h * 0.97 - copyBottom) / (0.323 * figH)));
+    var s0 = Math.min(1.8, Math.max(0, (h * 0.97 - copyBottom) / (0.323 * figH)));
     set(hero, "--s0", s0);
     set(hero, "--lift", lift + "px");
     // Il margine vuoto sotto la W nel viewBox (20/336 della larghezza) va compensato per allineare la W alla base del telefono.

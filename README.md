@@ -17,7 +17,7 @@ Landing page in italiano per WatchMeGrow, l'app in sviluppo per organizzare le p
 - `privacy.html` – informativa privacy (servita su `/privacy`)
 - `styles.css` – tutti gli stili, mobile-first
 - `script.js` – solo il pulsante "Condividi" di `grazie.html`
-- `hero.js` – hero a scorrimento di `index.html` (parallasse: logo → telefono → pianta che cresce dalla W → balloon). Con movimento ridotto o senza JS resta una versione statica.
+- `hero.js` – hero a scorrimento di `index.html` (parallasse: logo → telefono → pianta che cresce dalla W → balloon). Un invito "Scorri per vederla crescere" con freccia animata brevemente rende esplicito lo scorrimento e scompare insieme al testo iniziale. Con movimento ridotto o senza JS resta una versione statica, senza invito.
 - `reveal.js` – animazioni d'ingresso delle sezioni sotto l'hero (ogni blocco appare una volta sola, con piccoli ritardi a cascata). Stesse regole: disattivate con movimento ridotto.
 - `favicon.svg`, `netlify.toml`
 
