@@ -1,0 +1,2643 @@
+{
+ "url": "index.html",
+ "at": "2026-10-25T15:42:14.456Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.25,
+    0.13,
+    0.14,
+    0.14,
+    0.13,
+    0.67,
+    0.76,
+    0.54,
+    0.82,
+    0.7,
+    0.47,
+    0.38
+   ],
+   "motion": {
+    "elements": 58,
+    "css": 9,
+    "transitions": 49,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11114,
+     "screens": 12.3,
+     "words": 886,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "☀",
+      "🌿",
+      "💧",
+      "🪴",
+      "📷",
+      "📋",
+      "💬"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 4,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.46,
+     "top": 147,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "lines": 2,
+     "size": 57.6,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.46,
+      "top": 147,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "I consigli generici non funzionano",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 4887,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tre passi, zero stress",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 5413,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Funziona subito, anche senza niente nel vaso",
+      "words": 7,
+      "chars": 44,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 5976,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tutto quello che serve alle tue piante",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 6747,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratis per iniziare, Plus se vuoi di più",
+      "words": 8,
+      "chars": 40,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 7598,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Prova WatchMeGrow per primo",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 9101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 10292,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 7,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      40,
+      58
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 57.6,
+      "vw": 4,
+      "font": "Manrope",
+      "text": "Il giardiniere che conosce la tua pianta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 8,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "App in arrivo per iPhone e Android",
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.14,
+     "smallText": 13
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "I consigli generici non funzionano",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 4841
+     },
+     {
+      "text": "Come funziona",
+      "above": "Tre passi, zero stress",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5367
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Funziona subito, anche senza niente nel ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5930
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Tutto quello che serve alle tue piante",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6701
+     },
+     {
+      "text": "Piani",
+      "above": "Gratis per iniziare, Plus se vuoi di più",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7552
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Prova WatchMeGrow per primo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 9055
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10246
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 4745,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 7456,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.38
+      },
+      {
+       "color": "#334239",
+       "share": 0.3
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.2
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 7,
+     "shadowSamples": [
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "header.site-header 1440px",
+      "p.footer-bottom 1080px"
+     ],
+     "outlinedBoxes": 10,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 22,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 5495
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 6875
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.37
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11114,
+    "margins": {
+     "left": 180,
+     "right": 216
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 65,
+      "height": 4680,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Il giardiniere che conosce la tua pianta",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 434,
+      "right": 434,
+      "textLeft": 434,
+      "textRight": 434,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 4745,
+      "height": 526,
+      "words": 83,
+      "media": 0,
+      "middle": 95,
+      "heading": {
+       "text": "I consigli generici non funzionano",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 180,
+      "right": 240,
+      "textLeft": 180,
+      "textRight": 240,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5271,
+      "height": 563,
+      "words": 74,
+      "media": 0,
+      "middle": 49,
+      "heading": {
+       "text": "Tre passi, zero stress",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 208,
+      "right": 213,
+      "textLeft": 208,
+      "textRight": 213,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 5834,
+      "height": 771,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Funziona subito, anche senza niente nel vaso",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 210,
+      "right": 243,
+      "textLeft": 210,
+      "textRight": 243,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 6605,
+      "height": 851,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tutto quello che serve alle tue piante",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 205,
+      "right": 221,
+      "textLeft": 205,
+      "textRight": 221,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 7456,
+      "height": 1503,
+      "words": 245,
+      "media": 0,
+      "middle": 53,
+      "heading": {
+       "text": "Gratis per iniziare, Plus se vuoi di più",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 200,
+      "right": 208,
+      "textLeft": 200,
+      "textRight": 208,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 8958,
+      "height": 1192,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Prova WatchMeGrow per primo",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 400,
+      "textLeft": 400,
+      "textRight": 430,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 10150,
+      "height": 710,
+      "words": 147,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hai qualche dubbio?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 371,
+      "right": 378,
+      "textLeft": 371,
+      "textRight": 378,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10860,
+      "height": 253,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "size": 58,
+      "top": 147,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 205,
+      "n": 5
+     },
+     {
+      "x": 371,
+      "n": 5
+     },
+     {
+      "x": 572,
+      "n": 4
+     },
+     {
+      "x": 938,
+      "n": 4
+     },
+     {
+      "x": 180,
+      "n": 3
+     },
+     {
+      "x": 760,
+      "n": 1
+     },
+     {
+      "x": 780,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.25,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 420,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.29,
+    0.14,
+    0.15,
+    0.18,
+    0.18,
+    0.78,
+    0.73,
+    0.74,
+    0.79,
+    0.67,
+    0.66,
+    0.8
+   ],
+   "motion": {
+    "elements": 58,
+    "css": 9,
+    "transitions": 49,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12217,
+     "screens": 11.9,
+     "words": 886,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [
+      "☀",
+      "🌿",
+      "💧",
+      "🪴",
+      "📷",
+      "📋",
+      "💬"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 7.5,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 151,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "lines": 2,
+     "size": 57.6,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 7.5,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 151,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "I consigli generici non funzionano",
+      "words": 5,
+      "chars": 34,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5500,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tre passi, zero stress",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 6091,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Funziona subito, anche senza niente nel vaso",
+      "words": 7,
+      "chars": 44,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 6852,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tutto quello che serve alle tue piante",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 7668,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratis per iniziare, Plus se vuoi di più",
+      "words": 8,
+      "chars": 40,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 8699,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Prova WatchMeGrow per primo",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 10273,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 11401,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 7,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      40,
+      58
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 81,
+     "max": {
+      "size": 57.6,
+      "vw": 7.5,
+      "font": "Manrope",
+      "text": "Il giardiniere che conosce la tua pianta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 8,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "App in arrivo per iPhone e Android",
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.14,
+     "smallText": 21
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "I consigli generici non funzionano",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5454
+     },
+     {
+      "text": "Come funziona",
+      "above": "Tre passi, zero stress",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6044
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Funziona subito, anche senza niente nel ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6806
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Tutto quello che serve alle tue piante",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7622
+     },
+     {
+      "text": "Piani",
+      "above": "Gratis per iniziare, Plus se vuoi di più",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 8653
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Prova WatchMeGrow per primo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10227
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 11355
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 5390,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 8588,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.38
+      },
+      {
+       "color": "#334239",
+       "share": 0.3
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.2
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 4,
+     "shadowSamples": [
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "header.site-header 768px",
+      "p.footer-bottom 728px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 19,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 6173
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 7796
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.43
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 12217,
+    "margins": {
+     "left": 20,
+     "right": 14
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 65,
+      "height": 5325,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Il giardiniere che conosce la tua pianta",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 98,
+      "right": 98,
+      "textLeft": 98,
+      "textRight": 98,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 5390,
+      "height": 590,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "I consigli generici non funzionano",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 29,
+      "textLeft": 20,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5980,
+      "height": 761,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tre passi, zero stress",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 81,
+      "textLeft": 48,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 6742,
+      "height": 816,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Funziona subito, anche senza niente nel vaso",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 55,
+      "textLeft": 50,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 7558,
+      "height": 1031,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tutto quello che serve alle tue piante",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 45,
+      "right": 49,
+      "textLeft": 45,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 8588,
+      "height": 1575,
+      "words": 245,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Gratis per iniziare, Plus se vuoi di più",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 9,
+      "textLeft": 40,
+      "textRight": 9,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 10163,
+      "height": 1128,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Prova WatchMeGrow per primo",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 64,
+      "right": 64,
+      "textLeft": 64,
+      "textRight": 94,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 11291,
+      "height": 646,
+      "words": 147,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hai qualche dubbio?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 41,
+      "right": 48,
+      "textLeft": 41,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 11937,
+      "height": 281,
+      "words": 22,
+      "media": 0,
+      "middle": 49,
+      "heading": null,
+      "left": 20,
+      "right": 83,
+      "textLeft": 20,
+      "textRight": 83,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "size": 58,
+      "top": 151,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 41,
+      "n": 13
+     },
+     {
+      "x": 417,
+      "n": 7
+     },
+     {
+      "x": 20,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.54,
+    0.29,
+    0.3,
+    0.28,
+    0.27,
+    0.93,
+    0.76,
+    0.74,
+    0.79,
+    0.79,
+    0.86,
+    0.77
+   ],
+   "motion": {
+    "elements": 58,
+    "css": 9,
+    "transitions": 49,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 12828,
+     "screens": 15.2,
+     "words": 886,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [
+      "☀",
+      "🌿",
+      "💧",
+      "🪴",
+      "📷",
+      "📋",
+      "💬"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "chars": 40,
+     "lines": 2,
+     "size": 30.4,
+     "vw": 7.8,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 145,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Il giardiniere che conosce la tua pianta",
+     "words": 7,
+     "lines": 2,
+     "size": 30.4,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "words": 7,
+      "chars": 40,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 145,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "I consigli generici non funzionano",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4564,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Annaffia una volta a settimana.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 4962,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Tre passi, zero stress",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5342,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Funziona subito, anche senza niente nel vaso",
+      "words": 7,
+      "chars": 44,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6352,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tutto quello che serve alle tue piante",
+      "words": 7,
+      "chars": 38,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7544,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratis per iniziare, Plus se vuoi di più",
+      "words": 8,
+      "chars": 40,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9210,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Prova WatchMeGrow per primo",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 10807,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 12000,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 7,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      28,
+      30
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 36,
+     "max": {
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Manrope",
+      "text": "Il giardiniere che conosce la tua pianta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 8,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "App in arrivo per iPhone e Android",
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.14,
+     "smallText": 21
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "I consigli generici non funzionano",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 4518
+     },
+     {
+      "text": "Come funziona",
+      "above": "Tre passi, zero stress",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5296
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Funziona subito, anche senza niente nel ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6306
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Tutto quello che serve alle tue piante",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7498
+     },
+     {
+      "text": "Piani",
+      "above": "Gratis per iniziare, Plus se vuoi di più",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 9164
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Prova WatchMeGrow per primo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10761
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 11954
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 4454,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f7f8f4",
+       "top": 6496,
+       "hsl": {
+        "h": 75,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#244f3d",
+       "top": 6980,
+       "hsl": {
+        "h": 155,
+        "s": 0.37,
+        "l": 0.23
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 9099,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.38
+      },
+      {
+       "color": "#334239",
+       "share": 0.3
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.2
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 4,
+     "shadowSamples": [
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 3,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "s → linear-gradient(rgb(36, 79, 61), rgb(36, 79, 61))"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "header.site-header 390px",
+      "p.footer-bottom 350px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 19,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 5410
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 7644
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.45
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 12828,
+    "margins": {
+     "left": 20,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 65,
+      "height": 4389,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Il giardiniere che conosce la tua pianta",
+       "size": 30,
+       "tag": "h1"
+      },
+      "left": 21,
+      "right": 21,
+      "textLeft": 21,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 4454,
+      "height": 778,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "I consigli generici non funzionano",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 22,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5232,
+      "height": 1010,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tre passi, zero stress",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 57,
+      "textLeft": 48,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 6242,
+      "height": 1192,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Funziona subito, anche senza niente nel vaso",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 41,
+      "right": 41,
+      "textLeft": 41,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 7433,
+      "height": 1666,
+      "words": 110,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tutto quello che serve alle tue piante",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 9099,
+      "height": 1571,
+      "words": 245,
+      "media": 0,
+      "middle": 116,
+      "heading": {
+       "text": "Gratis per iniziare, Plus se vuoi di più",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 0,
+      "textLeft": 28,
+      "textRight": -369,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 10671,
+      "height": 1193,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 11864,
+      "height": 632,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 12496,
+      "height": 332,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Il giardiniere che conosce la tua pianta",
+      "size": 30,
+      "top": 145,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 45,
+      "n": 15
+     },
+     {
+      "x": 20,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 18,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "7 eyebrow/kicker label(s) above headings: \"Il problema\" (pill) above \"I consigli generici non funzionano\"; \"Come funziona\" (pill) above \"Tre passi, zero stress\"; \"Con o senza sensore\" (pill) above \"Funziona subito, anche senza niente nel \"; \"Funzionalità\" (pill) above \"Tutto quello che serve alle tue piante\"; \"Piani\" (pill) above \"Gratis per iniziare, Plus se vuoi di più\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "8 tiny uppercase letter-spaced labels (e.g. \"App in arrivo per iPhone e Android\", \"Il problema\", \"Come funziona\", \"Con o senza sensore\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: ☀ 🌿 💧 🪴 📷 📋 💬",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "2 gradient fill(s): span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%) | span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "6 box-shadow(s) on elements at rest: li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px | li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px | li.step.is-done → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "2 thin rule(s)/divider line(s): header.site-header 1440px | p.footer-bottom 1080px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "10 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "2 row(s) of identical cards each topped with a small icon (3, 6 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "14 different font sizes (11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 40, 58).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "13 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 180px on the left, 216px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"Il giardiniere che conosce la tua pianta\" (screen 1, 100% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"Il giardiniere che conosce la tua pianta\" (screen 1, 97% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "empty-screens",
+   "width": 1440,
+   "message": "4 of 12 desktop screens are almost empty ground (under 20% of the screen holds text, a picture or a colour field): screens 2, 3, 4, 5.",
+   "fix": "An empty screen is a rest only once per page. Elsewhere it means the section is underbuilt: set its content larger, give it the full information, put it on a colour field, or cut it."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 768,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\desktop-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\desktop-page-02.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\tablet-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\mobile-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\before\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

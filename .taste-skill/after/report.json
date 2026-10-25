@@ -1,0 +1,2590 @@
+{
+ "url": "index.html",
+ "at": "2026-10-25T15:46:01.893Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.19,
+    0.07,
+    0.07,
+    0.07,
+    0.06,
+    0.61,
+    0.66,
+    0.53,
+    0.74,
+    0.68,
+    0.42,
+    0.34
+   ],
+   "motion": {
+    "elements": 55,
+    "css": 9,
+    "transitions": 46,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11126,
+     "screens": 12.4,
+     "words": 867,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 4,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.46,
+     "top": 100,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "lines": 2,
+     "size": 57.6,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.46,
+      "top": 100,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ogni pianta ha le sue esigenze",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 4886,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Da dove parte l'app",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 5412,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sensori: il prossimo passo",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 6002,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Le funzioni in progetto",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 6682,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratuito e Plus: la proposta",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 7565,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Vuoi provare WatchMeGrow?",
+      "words": 3,
+      "chars": 25,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 9101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.44,
+      "top": 10293,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 7,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      40,
+      58
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 57.6,
+      "vw": 4,
+      "font": "Manrope",
+      "text": "Le tue piante, sotto controllo"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 7,
+     "microLabelShare": 0.015,
+     "microSamples": [
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani",
+      "Lista d'attesa"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.18,
+     "smallText": 6
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "Ogni pianta ha le sue esigenze",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 4840
+     },
+     {
+      "text": "Come funziona",
+      "above": "Da dove parte l'app",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5366
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Sensori: il prossimo passo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5956
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Le funzioni in progetto",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6636
+     },
+     {
+      "text": "Piani",
+      "above": "Gratuito e Plus: la proposta",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7519
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Vuoi provare WatchMeGrow?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 9055
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10246
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 4744,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 7423,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.45
+      },
+      {
+       "color": "#334239",
+       "share": 0.28
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 7,
+     "shadowSamples": [
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "p.footer-bottom 1080px"
+     ],
+     "outlinedBoxes": 8,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 20,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 5494
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 6843
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.38
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11126,
+    "margins": {
+     "left": 180,
+     "right": 209
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 64,
+      "height": 4680,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Le tue piante, sotto controllo",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 459,
+      "right": 459,
+      "textLeft": 459,
+      "textRight": 459,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 4744,
+      "height": 526,
+      "words": 80,
+      "media": 0,
+      "middle": 103,
+      "heading": {
+       "text": "Ogni pianta ha le sue esigenze",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 180,
+      "right": 235,
+      "textLeft": 180,
+      "textRight": 235,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5270,
+      "height": 590,
+      "words": 67,
+      "media": 0,
+      "middle": 72,
+      "heading": {
+       "text": "Da dove parte l'app",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 208,
+      "right": 209,
+      "textLeft": 208,
+      "textRight": 209,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 5860,
+      "height": 680,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sensori: il prossimo passo",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 210,
+      "right": 246,
+      "textLeft": 210,
+      "textRight": 246,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 6540,
+      "height": 883,
+      "words": 135,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Le funzioni in progetto",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 205,
+      "right": 209,
+      "textLeft": 205,
+      "textRight": 209,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 7423,
+      "height": 1536,
+      "words": 273,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Gratuito e Plus: la proposta",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 200,
+      "right": 206,
+      "textLeft": 200,
+      "textRight": 206,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 8959,
+      "height": 1192,
+      "words": 85,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Vuoi provare WatchMeGrow?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 400,
+      "textLeft": 400,
+      "textRight": 417,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 10150,
+      "height": 710,
+      "words": 167,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hai qualche dubbio?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 371,
+      "right": 390,
+      "textLeft": 371,
+      "textRight": 390,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 10860,
+      "height": 266,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "size": 58,
+      "top": 100,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 205,
+      "n": 5
+     },
+     {
+      "x": 371,
+      "n": 5
+     },
+     {
+      "x": 572,
+      "n": 4
+     },
+     {
+      "x": 938,
+      "n": 4
+     },
+     {
+      "x": 180,
+      "n": 3
+     },
+     {
+      "x": 760,
+      "n": 1
+     },
+     {
+      "x": 780,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.25,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 420,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.24,
+    0.09,
+    0.09,
+    0.13,
+    0.12,
+    0.73,
+    0.71,
+    0.6,
+    0.82,
+    0.86,
+    0.7,
+    0.7
+   ],
+   "motion": {
+    "elements": 56,
+    "css": 9,
+    "transitions": 47,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12281,
+     "screens": 12,
+     "words": 867,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 57.6,
+     "vw": 7.5,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 104,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "lines": 2,
+     "size": 57.6,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 7.5,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 104,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ogni pianta ha le sue esigenze",
+      "words": 6,
+      "chars": 30,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5499,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Da dove parte l'app",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 6090,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sensori: il prossimo passo",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 6905,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Le funzioni in progetto",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 7630,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratuito e Plus: la proposta",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 8693,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Vuoi provare WatchMeGrow?",
+      "words": 3,
+      "chars": 25,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 10325,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 11453,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 7,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      40,
+      58
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 81,
+     "max": {
+      "size": 57.6,
+      "vw": 7.5,
+      "font": "Manrope",
+      "text": "Le tue piante, sotto controllo"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 7,
+     "microLabelShare": 0.015,
+     "microSamples": [
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani",
+      "Lista d'attesa"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.18,
+     "smallText": 13
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "Ogni pianta ha le sue esigenze",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5453
+     },
+     {
+      "text": "Come funziona",
+      "above": "Da dove parte l'app",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6043
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Sensori: il prossimo passo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6859
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Le funzioni in progetto",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7584
+     },
+     {
+      "text": "Piani",
+      "above": "Gratuito e Plus: la proposta",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 8647
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Vuoi provare WatchMeGrow?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10279
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 11407
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 5389,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 8583,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.45
+      },
+      {
+       "color": "#334239",
+       "share": 0.28
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 4,
+     "shadowSamples": [
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 2,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "p.footer-bottom 728px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 19,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 6172
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 7790
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.38
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 12281,
+    "margins": {
+     "left": 20,
+     "right": 14
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 64,
+      "height": 5325,
+      "words": 40,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Le tue piante, sotto controllo",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 123,
+      "right": 123,
+      "textLeft": 123,
+      "textRight": 123,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 5389,
+      "height": 590,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ogni pianta ha le sue esigenze",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 49,
+      "textLeft": 20,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5979,
+      "height": 816,
+      "words": 67,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Da dove parte l'app",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 50,
+      "textLeft": 48,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 6795,
+      "height": 724,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sensori: il prossimo passo",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 52,
+      "textLeft": 50,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 7519,
+      "height": 1064,
+      "words": 135,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Le funzioni in progetto",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 45,
+      "right": 52,
+      "textLeft": 45,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 8583,
+      "height": 1632,
+      "words": 273,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Gratuito e Plus: la proposta",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 9,
+      "textLeft": 24,
+      "textRight": 9,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 10215,
+      "height": 1128,
+      "words": 85,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Vuoi provare WatchMeGrow?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 64,
+      "right": 64,
+      "textLeft": 64,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 11342,
+      "height": 646,
+      "words": 167,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hai qualche dubbio?",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 41,
+      "right": 48,
+      "textLeft": 41,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 11988,
+      "height": 293,
+      "words": 18,
+      "media": 0,
+      "middle": 103,
+      "heading": null,
+      "left": 20,
+      "right": 83,
+      "textLeft": 20,
+      "textRight": 83,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "size": 58,
+      "top": 104,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 41,
+      "n": 13
+     },
+     {
+      "x": 417,
+      "n": 7
+     },
+     {
+      "x": 20,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.45,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.89,
+    0.66,
+    0.78,
+    0.78,
+    0.85,
+    0.73,
+    0.84
+   ],
+   "motion": {
+    "elements": 47,
+    "css": 9,
+    "transitions": 38,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 13095,
+     "screens": 15.5,
+     "words": 867,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 30.4,
+     "vw": 7.8,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.01,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 98,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Le tue piante, sotto controllo",
+     "words": 5,
+     "lines": 2,
+     "size": 30.4,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 98,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Ogni pianta ha le sue esigenze",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4563,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Annaffia una volta a settimana.",
+      "words": 5,
+      "chars": 31,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 4934,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Da dove parte l'app",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5314,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sensori: il prossimo passo",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6351,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Le funzioni in progetto",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7494,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Gratuito e Plus: la proposta",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 9257,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Vuoi provare WatchMeGrow?",
+      "words": 3,
+      "chars": 25,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 11006,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hai qualche dubbio?",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.01,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 12255,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 7,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      24,
+      28,
+      30
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 17,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 36,
+     "max": {
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Manrope",
+      "text": "Le tue piante, sotto controllo"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 7,
+     "microLabelShare": 0.015,
+     "microSamples": [
+      "Il problema",
+      "Come funziona",
+      "Con o senza sensore",
+      "Funzionalità",
+      "Piani",
+      "Lista d'attesa"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.18,
+     "smallText": 13
+    },
+    "eyebrows": [
+     {
+      "text": "Il problema",
+      "above": "Ogni pianta ha le sue esigenze",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 4517
+     },
+     {
+      "text": "Come funziona",
+      "above": "Da dove parte l'app",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 5268
+     },
+     {
+      "text": "Con o senza sensore",
+      "above": "Sensori: il prossimo passo",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 6305
+     },
+     {
+      "text": "Funzionalità",
+      "above": "Le funzioni in progetto",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 7448
+     },
+     {
+      "text": "Piani",
+      "above": "Gratuito e Plus: la proposta",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 9211
+     },
+     {
+      "text": "Lista d'attesa",
+      "above": "Vuoi provare WatchMeGrow?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 10960
+     },
+     {
+      "text": "Domande frequenti",
+      "above": "Hai qualche dubbio?",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 12209
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f8f4",
+     "bodyBgHsl": {
+      "h": 75,
+      "s": 0.22,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 4453,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f7f8f4",
+       "top": 6522,
+       "hsl": {
+        "h": 75,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#244f3d",
+       "top": 6931,
+       "hsl": {
+        "h": 155,
+        "s": 0.37,
+        "l": 0.23
+       }
+      },
+      {
+       "color": "#edf2e9",
+       "top": 9147,
+       "hsl": {
+        "h": 93,
+        "s": 0.26,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#5b675f",
+       "share": 0.45
+      },
+      {
+       "color": "#334239",
+       "share": 0.28
+      },
+      {
+       "color": "#244f3d",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      },
+      {
+       "color": "#e8efe4",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#244f3d",
+      "hsl": {
+       "h": 155,
+       "s": 0.37,
+       "l": 0.23
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 58,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Vai al contenuto",
+      "Iscriviti",
+      "Entra nella lista d'attesa"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 4,
+     "shadowSamples": [
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+      "div.pricing-table-wrap.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px"
+     ],
+     "gradients": 3,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+      "s → linear-gradient(rgb(36, 79, 61), rgb(36, 79, 61))"
+     ],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "p.footer-bottom 350px"
+     ],
+     "outlinedBoxes": 7,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 19,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 5382
+      },
+      {
+       "count": 6,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 7665
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.41
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 13095,
+    "margins": {
+     "left": 20,
+     "right": 22
+    },
+    "sections": [
+     {
+      "sel": "section#hero.hero.hero--scrub",
+      "tag": "section",
+      "top": 64,
+      "height": 4389,
+      "words": 40,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Le tue piante, sotto controllo",
+       "size": 30,
+       "tag": "h1"
+      },
+      "left": 21,
+      "right": 21,
+      "textLeft": 21,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.problem",
+      "tag": "section",
+      "top": 4453,
+      "height": 751,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Ogni pianta ha le sue esigenze",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 28,
+      "textLeft": 20,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.how",
+      "tag": "section",
+      "top": 5203,
+      "height": 1037,
+      "words": 67,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Da dove parte l'app",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 52,
+      "textLeft": 48,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.sensor",
+      "tag": "section",
+      "top": 6241,
+      "height": 1143,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sensori: il prossimo passo",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 26,
+      "right": 26,
+      "textLeft": 26,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.features-section",
+      "tag": "section",
+      "top": 7384,
+      "height": 1763,
+      "words": 135,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Le funzioni in progetto",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.pricing",
+      "tag": "section",
+      "top": 9147,
+      "height": 1722,
+      "words": 273,
+      "media": 0,
+      "middle": 116,
+      "heading": {
+       "text": "Gratuito e Plus: la proposta",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 0,
+      "textLeft": 25,
+      "textRight": -369,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#lista-attesa.signup",
+      "tag": "section",
+      "top": 10869,
+      "height": 1249,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 12119,
+      "height": 632,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 12751,
+      "height": 344,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Le tue piante, sotto controllo",
+      "size": 30,
+      "top": 98,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 45,
+      "n": 15
+     },
+     {
+      "x": 20,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 18,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "7 eyebrow/kicker label(s) above headings: \"Il problema\" (pill) above \"Ogni pianta ha le sue esigenze\"; \"Come funziona\" (pill) above \"Da dove parte l'app\"; \"Con o senza sensore\" (pill) above \"Sensori: il prossimo passo\"; \"Funzionalità\" (pill) above \"Le funzioni in progetto\"; \"Piani\" (pill) above \"Gratuito e Plus: la proposta\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "7 tiny uppercase letter-spaced labels (e.g. \"Il problema\", \"Come funziona\", \"Con o senza sensore\", \"Funzionalità\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "2 gradient fill(s): span.blob.blob-a → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%) | span.blob.blob-b → radial-gradient(circle at 40% 40%, rgb(225, 234, 217), rgba(0, 0, 0, 0) 68%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "6 box-shadow(s) on elements at rest: li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px | li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px | li.step.is-in → rgba(36, 79, 61, 0.18) 0px 10px 30px -12px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): p.footer-bottom 1080px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "8 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "2 row(s) of identical cards each topped with a small icon (3, 6 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "11 different font sizes (13, 14, 15, 16, 17, 18, 19, 20, 24, 40, 58).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (0 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "6 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 180px on the left, 209px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"Le tue piante, sotto controllo\" (screen 1, 100% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground."
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"Le tue piante, sotto controllo\" (screen 1, 100% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it."
+  },
+  {
+   "level": "FAIL",
+   "id": "empty-screens",
+   "width": 1440,
+   "message": "5 of 12 desktop screens are almost empty ground (under 20% of the screen holds text, a picture or a colour field): screens 1, 2, 3, 4, 5.",
+   "fix": "An empty screen is a rest only once per page. Elsewhere it means the section is underbuilt: set its content larger, give it the full information, put it on a colour field, or cut it."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 768,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\desktop-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\desktop-page-02.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\tablet-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\mobile-page-01.jpg",
+    "D:\\Archivio\\Robe\\watchmegrow-landing\\.taste-skill\\after\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
