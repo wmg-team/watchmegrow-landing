@@ -213,7 +213,7 @@ section { padding: 4rem 0; }
 
 /* Scena a scorrimento: il box è alto più dello schermo, la scena resta fissa e le variabili
    (--copy, --move, --show, --grow, --in, --out, --v) arrivano da hero.js in base allo scroll. */
-.hero--scrub { height: 520vh; height: 520svh; --hdr: 65px; --lift: 0px; }
+.hero--scrub { height: 300vh; height: 300svh; --hdr: 65px; --lift: 0px; }
 .hero--scrub .hero-stage {
   position: sticky;
   top: var(--hdr);
@@ -533,28 +533,31 @@ section { padding: 4rem 0; }
 /* ---------- Piani ---------- */
 .pricing { background: var(--sage-soft); }
 .pricing-table-wrap {
-  overflow-x: auto;
+  overflow: hidden;
   background: var(--white);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  -webkit-overflow-scrolling: touch;
 }
 .pricing-table {
   width: 100%;
-  min-width: 760px;
+  table-layout: fixed;
   border-collapse: collapse;
   text-align: left;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 .pricing-table th,
 .pricing-table td {
-  padding: 1rem 1.25rem;
+  padding: 0.7rem 0.55rem;
   border-bottom: 1px solid #e6eae2;
   vertical-align: top;
 }
 .pricing-table thead th {
   background: var(--forest);
   color: var(--white);
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 .pricing-table thead th:first-child { border-top-left-radius: var(--radius); }
 .pricing-table thead th:last-child { border-top-right-radius: var(--radius); }
@@ -562,15 +565,15 @@ section { padding: 4rem 0; }
   display: block;
   margin-top: 0.25rem;
   color: #e1ead9;
-  font-size: 0.85rem;
+  font-size: 0.72rem;
   font-weight: 500;
 }
 .pricing-table tbody th {
-  width: 20%;
+  width: 28%;
   color: var(--forest);
   font-weight: 700;
 }
-.pricing-table tbody td { width: 40%; }
+.pricing-table tbody td { width: 36%; }
 .pricing-table tbody tr:nth-child(even) { background: #f7f8f4; }
 .pricing-table tbody tr:last-child th,
 .pricing-table tbody tr:last-child td { border-bottom: 0; }
@@ -711,6 +714,12 @@ fieldset { border: 0; padding: 0; margin: 0 0 1.35rem; min-width: 0; }
 
 /* ---------- Tablet e desktop ---------- */
 @media (min-width: 640px) {
+  .pricing-table { font-size: 1rem; line-height: 1.6; }
+  .pricing-table th, .pricing-table td { padding: 1rem 1.25rem; }
+  .pricing-table thead th { font-size: 1.05rem; }
+  .pricing-table thead span { font-size: 0.85rem; }
+  .pricing-table tbody th { width: 20%; }
+  .pricing-table tbody td { width: 40%; }
   .steps, .features { grid-template-columns: repeat(2, 1fr); }
   .compare { grid-template-columns: repeat(2, 1fr); }
   .form-card { padding: 2.5rem; }
@@ -770,8 +779,9 @@ fieldset { border: 0; padding: 0; margin: 0 0 1.35rem; min-width: 0; }
 }
 .problem blockquote[data-reveal].is-in s { background-size: 100% 3px; }
 
-[data-reveal] .pricing-table tbody tr { opacity: 0; transform: translateY(10px); transition: opacity 0.5s ease, transform 0.5s var(--ease); }
-[data-reveal].is-in .pricing-table tbody tr { opacity: 1; transform: none; transition-delay: calc(0.2s + var(--i, 0) * 60ms); }
+/* Solo opacità: uno spostamento verticale farebbe comparire per un attimo la barra di scorrimento del contenitore. */
+[data-reveal] .pricing-table tbody tr { opacity: 0; transition: opacity 0.5s ease; }
+[data-reveal].is-in .pricing-table tbody tr { opacity: 1; transition-delay: calc(0.2s + var(--i, 0) * 60ms); }
 
 /* FAQ: la risposta scende dolcemente all'apertura */
 @keyframes faq-open { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
