@@ -1,13 +1,13 @@
 # WatchMeGrow – sito della lista d'attesa
 
-Landing page in italiano per WatchMeGrow, l'app (in sviluppo) con un giardiniere IA per le piante di casa e del balcone. Il sito presenta il prodotto e raccoglie le iscrizioni alla lista d'attesa.
+Landing page in italiano per WatchMeGrow, l'app in sviluppo per organizzare le piante e chiedere consigli a un assistente IA. Il sito raccoglie le iscrizioni alla lista d'attesa e distingue la demo attuale dalle funzioni e dai piani ipotizzati.
 
 ## Tecnologie
 
 - HTML, CSS e un piccolo file JavaScript vanilla: nessun framework, nessun build step.
-- Google Font Manrope, in linea con la webapp.
-- Palette e simbolo del brand condivisi con WatchMeGrow.
-- Illustrazioni e icone in SVG inline; lo smartphone dell'hero è disegnato in CSS.
+- Manrope servito localmente, con licenza OFL in `fonts/`, come nella webapp.
+- Palette, simbolo e wordmark “Quiet growth” condivisi con WatchMeGrow.
+- Illustrazioni e icone in SVG inline; lo smartphone dell'hero è uno schema illustrativo in CSS, non una schermata dell'app.
 - Netlify Forms per il modulo `lista-attesa` (con honeypot anti-spam).
 
 ## File
@@ -32,6 +32,8 @@ netlify dev
 Le iscrizioni si leggono nel pannello Netlify, sezione **Forms → lista-attesa**.
 
 ## Prima della pubblicazione
+
+Il confronto con il codice dell'app, le correzioni dei testi e la revisione grafica sono documentati in [ANALISI-COERENZA.md](ANALISI-COERENZA.md). Screenshot e misurazioni locali sono in `.taste-skill/`.
 
 - Sostituire i segnaposto `[EMAIL]`, `[INSTAGRAM]`, `[TIKTOK]` (footer e `grazie.html`) e `[NOME E CONTATTI]` (`privacy.html`).
 - Far verificare l'informativa privacy e poi rimuovere la nota "Testo da far verificare".
